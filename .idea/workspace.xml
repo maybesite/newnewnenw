@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="897ddd48-f710-4917-b40d-2ed024b70290" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/edition/demo01/One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo01/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo09Interface/MyinterfaceConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo09Interface/MyinterfaceConstuse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo09Interface/MyinterfacePrivate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo09Interface/MyinterfacePrivateimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo10interface/Myinterface01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo10interface/MyinterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo10interface/MyinterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo10interface/Myinterfaceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo11interfacerelation/MyinterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo11interfacerelation/MyinterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo11interfacerelation/MyinterfaceC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo12Multi/demo01MultiFu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo12Multi/demo01MultiZi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo12Multi/demo02Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo12Multi/demo02Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo12Multi/demo03Fumethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo12Multi/demo03Zimethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo12Multi/demo04Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo12Multi/demo04Usb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo12Multi/demo04jianpan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo12Multi/demo04shubiao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo13Final/demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo14InnerClass/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo14InnerClass/demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo15NiMing/Demomian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo15NiMing/Myinterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edition/demo15NiMing/Myinterfaceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week/Baffe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week/Brick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week/Game01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edition/demo01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edition/demo01/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edition/demo02/Demo05UseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edition/demo02/Demo05UseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edition/demo03/Demo01Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edition/demo03/Demo01Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edition/demo05/Demo04String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edition/demo05/Demo04String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edition/demo05/Demo06StringGet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edition/demo05/Demo06StringGet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edition/demo08/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edition/demo08/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edition/demo09Interface/MyiinterfacePrivate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edition/demo09Interface/MyinterfaceDefaultimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edition/demo09Interface/MyinterfaceDefaultimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edition/demo09Interface/MyinterfaceStaticimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edition/demo09Interface/MyinterfaceStaticimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week/BankofDaLian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week/Constructbank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week/Test.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="51467185">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="70" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.101" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="2" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.39" value="4" />
+          <entry key="project.open.time.41" value="5" />
+          <entry key="project.open.time.42" value="2" />
+          <entry key="project.open.time.43" value="2" />
+          <entry key="project.open.time.44" value="3" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.46" value="4" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.50" value="3" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.52" value="2" />
+          <entry key="project.open.time.53" value="2" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.60" value="3" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.68" value="2" />
+          <entry key="project.open.time.69" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.71" value="1" />
+          <entry key="project.open.time.72" value="2" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.82" value="1" />
+          <entry key="project.open.time.85" value="1" />
+          <entry key="project.open.time.87" value="1" />
+          <entry key="project.open.time.88" value="1" />
+          <entry key="project.open.time.91" value="1" />
+          <entry key="project.open.time.99" value="1" />
+          <entry key="project.opened" value="74" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="4" value="2" />
+          <entry key="iml" value="5" />
+          <entry key="java" value="673" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="5" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="673" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="56412" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="56412" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://D:/bilibili/src/Map0/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/edition" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/edition4/demo02reflect/Person.java" />
+        <option value="$PROJECT_DIR$/src/edition4/demo02reflect/ReflectDemo01.java" />
+        <option value="$PROJECT_DIR$/src/edition4/demo01/Demo01FileInputStream.java" />
+        <option value="$PROJECT_DIR$/src/edition4/demo01/FilreDemo01.java" />
+        <option value="$PROJECT_DIR$/src/week/Hellowindow.java" />
+        <option value="$PROJECT_DIR$/src/edition4/demo01/FileDemo02.java" />
+        <option value="$PROJECT_DIR$/src/edition/demo05/Demo04String.java" />
+        <option value="$PROJECT_DIR$/src/edition4/demo01/FileInputstreamDemo03.java" />
+        <option value="D:/bilibili/src/Array/Main.java" />
+        <option value="D:/bilibili/src/hell.java" />
+        <option value="D:/bilibili/src/Arrays/Main.java" />
+        <option value="D:/bilibili/src/Arrays/Student.java" />
+        <option value="D:/bilibili/src/Stack0/d.java" />
+        <option value="D:/bilibili/src/Stack0/Stack.java" />
+        <option value="D:/bilibili/src/Stack0/ArrayStack.java" />
+        <option value="D:/bilibili/src/Stack0/Main.java" />
+        <option value="D:/bilibili/src/Arrays/Array.java" />
+        <option value="D:/bilibili/src/Stack0/Solution.java" />
+        <option value="D:/bilibili/src/Queue0/Queue.java" />
+        <option value="D:/bilibili/src/Queue0/ArrayQueue.java" />
+        <option value="D:/bilibili/src/Queue0/LoopQueue.java" />
+        <option value="$PROJECT_DIR$/src/week/Snow.java" />
+        <option value="D:/bilibili/src/Test/Hello.java" />
+        <option value="D:/bilibili/src/Test/Hi.java" />
+        <option value="D:/bilibili/src/LinkList/Test.java" />
+        <option value="D:/bilibili/src/LinkList/Main.java" />
+        <option value="D:/bilibili/src/Stack0/LinkListStack.java" />
+        <option value="D:/bilibili/src/Stack0/LinkedListStack.java" />
+        <option value="D:/bilibili/src/Queue0/LinkedListQueue.java" />
+        <option value="$PROJECT_DIR$/src/DATA_STRUCTURE/Demo01recursion/Dmoe01.java" />
+        <option value="$PROJECT_DIR$/src/JDKCollection/MyList.java" />
+        <option value="$PROJECT_DIR$/src/week/Test.java" />
+        <option value="$PROJECT_DIR$/src/week/JJjj.java" />
+        <option value="$PROJECT_DIR$/src/week/Bank.java" />
+        <option value="$PROJECT_DIR$/src/week/fee.java" />
+        <option value="$PROJECT_DIR$/src/week/Circle.java" />
+        <option value="$PROJECT_DIR$/src/week/Game01.java" />
+        <option value="$PROJECT_DIR$/src/week/Brick.java" />
+        <option value="$PROJECT_DIR$/src/week/Ball.java" />
+        <option value="$PROJECT_DIR$/src/week/Baffe.java" />
+        <option value="$PROJECT_DIR$/src/week/BallJpanel.java" />
+        <option value="$PROJECT_DIR$/src/week/Shape.java" />
+        <option value="D:/bilibili/src/Set0/Set.java" />
+        <option value="D:/bilibili/src/Set0/BSTSet.java" />
+        <option value="D:/bilibili/src/LinkList/LinkedList.java" />
+        <option value="D:/bilibili/src/Set0/LinkeListSet.java" />
+        <option value="D:/bilibili/src/Set0/Soultuion.java" />
+        <option value="D:/bilibili/src/Map0/Map.java" />
+        <option value="D:/bilibili/src/Map0/LinkedListMap.java" />
+        <option value="D:/bilibili/src/BST0/BST.java" />
+        <option value="D:/bilibili/src/Map0/BSTMap.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="96" />
+    <option name="y" value="225" />
+    <option name="width" value="1515" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Ant</id>
+          </State>
+          <State>
+            <id>Application Servers</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CDI (Contexts and Dependency Injection)</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code maturityJava</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Control flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flowJava</id>
+          </State>
+          <State>
+            <id>Data flowJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyGroovy</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>Faces Model</id>
+          </State>
+          <State>
+            <id>FinalizationJava</id>
+          </State>
+          <State>
+            <id>FlexUnit</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Hibernate</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>InitializationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam</id>
+          </State>
+          <State>
+            <id>JPA</id>
+          </State>
+          <State>
+            <id>JSON and JSON5</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 12Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java EE</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Modularization issuesJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Other problemsKotlin</id>
+          </State>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Reflective accessJava</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 1Struts</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+          <State>
+            <id>Validity issuesGroovy</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>VisibilityJava</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+          <State>
+            <id>YAML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic-code" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="brick.move&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555486143241" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="D:/bilibili" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\basic-code\src\week" />
+      <recent name="D:\basic-code\src\week\111.wav" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="edition.demo01" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BST">
+    <configuration name="BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BST0.BST" />
+      <module name="bilibili" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BST0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Game01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week.Game01" />
+      <module name="basic-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkList.Main" />
+      <module name="bilibili" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week.Test" />
+      <module name="basic-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All Features in: Test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/../bilibili/src/Test" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="bilibili" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.All Features in: Test" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Game01" />
+      <item itemvalue="Application.BST" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BST" />
+        <item itemvalue="Application.Game01" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Cucumber java.All Features in: Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="897ddd48-f710-4917-b40d-2ed024b70290" name="Default Changelist" comment="" />
+      <created>1551589763647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551589763647</updated>
+      <workItem from="1551589768692" duration="11839000" />
+      <workItem from="1551829876835" duration="6311000" />
+      <workItem from="1551858859390" duration="6211000" />
+      <workItem from="1551938075092" duration="5779000" />
+      <workItem from="1552003079527" duration="5316000" />
+      <workItem from="1552098245746" duration="20660000" />
+      <workItem from="1552184650629" duration="1489000" />
+      <workItem from="1552186168206" duration="16831000" />
+      <workItem from="1552434888667" duration="6196000" />
+      <workItem from="1552463867228" duration="3642000" />
+      <workItem from="1552467946162" duration="2343000" />
+      <workItem from="1552543214425" duration="2572000" />
+      <workItem from="1552546413371" duration="2007000" />
+      <workItem from="1552556516619" duration="524000" />
+      <workItem from="1552607860456" duration="6016000" />
+      <workItem from="1552638062250" duration="7357000" />
+      <workItem from="1552702407185" duration="21361000" />
+      <workItem from="1552787374493" duration="20551000" />
+      <workItem from="1552823444658" duration="50000" />
+      <workItem from="1553070540650" duration="2069000" />
+      <workItem from="1553083003399" duration="1887000" />
+      <workItem from="1553244305963" duration="181000" />
+      <workItem from="1553245124413" duration="517000" />
+      <workItem from="1553312068870" duration="593000" />
+      <workItem from="1553335542567" duration="834000" />
+      <workItem from="1553476384290" duration="610000" />
+      <workItem from="1553477352621" duration="8062000" />
+      <workItem from="1553519332917" duration="5171000" />
+      <workItem from="1553573683293" duration="608000" />
+      <workItem from="1553590127808" duration="15563000" />
+      <workItem from="1553644836829" duration="2836000" />
+      <workItem from="1553660688759" duration="11134000" />
+      <workItem from="1553684514010" duration="10623000" />
+      <workItem from="1553756815751" duration="657000" />
+      <workItem from="1553777263763" duration="960000" />
+      <workItem from="1553927010103" duration="3677000" />
+      <workItem from="1554003215810" duration="1381000" />
+      <workItem from="1554007162221" duration="13891000" />
+      <workItem from="1554021547054" duration="2756000" />
+      <workItem from="1554091652494" duration="901000" />
+      <workItem from="1554126013002" duration="3113000" />
+      <workItem from="1554180294914" duration="591000" />
+      <workItem from="1554249975495" duration="3689000" />
+      <workItem from="1554256755865" duration="3336000" />
+      <workItem from="1554265292348" duration="596000" />
+      <workItem from="1554277914157" duration="411000" />
+      <workItem from="1554278381717" duration="23000" />
+      <workItem from="1554278429609" duration="1214000" />
+      <workItem from="1554279668879" duration="4975000" />
+      <workItem from="1554302626438" duration="10000" />
+      <workItem from="1554302666861" duration="135000" />
+      <workItem from="1554357447885" duration="5833000" />
+      <workItem from="1554365041042" duration="14847000" />
+      <workItem from="1554778214329" duration="2183000" />
+      <workItem from="1554817394563" duration="2310000" />
+      <workItem from="1554855130315" duration="1922000" />
+      <workItem from="1554861687132" duration="2417000" />
+      <workItem from="1554882584659" duration="6830000" />
+      <workItem from="1554895965662" duration="2603000" />
+      <workItem from="1554956397036" duration="595000" />
+      <workItem from="1554961968331" duration="1487000" />
+      <workItem from="1554969571525" duration="1499000" />
+      <workItem from="1555068706522" duration="3851000" />
+      <workItem from="1555122117846" duration="3921000" />
+      <workItem from="1555129300499" duration="8332000" />
+      <workItem from="1555152245010" duration="7264000" />
+      <workItem from="1555416070716" duration="790000" />
+      <workItem from="1555416910825" duration="3281000" />
+      <workItem from="1555459791712" duration="2977000" />
+      <workItem from="1555464155139" duration="580000" />
+      <workItem from="1555466798151" duration="6067000" />
+      <workItem from="1555477339080" duration="8919000" />
+      <workItem from="1555560947107" duration="714000" />
+      <workItem from="1555566777349" duration="490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="339771000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.24962293" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.16152816" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.34106413" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24283765" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31650752" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32842106" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.72169167" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.29195088" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/bilibili/src/LinkList/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="131" column="34" lean-forward="true" selection-start-line="131" selection-start-column="34" selection-end-line="131" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edition/demo15NiMing/Myinterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edition/demo15NiMing/Demomian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edition/demo15NiMing/Myinterfaceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edition/demo14InnerClass/Outer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edition/demo14InnerClass/demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-507">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/Stack0/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/Stack0/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/Stack0/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/LinkList/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/Stack0/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/Stack0/LinkedListStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/Queue0/LoopQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="82" column="40" lean-forward="true" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/Queue0/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edition4/demo01/FileDemo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edition4/demo01/FileInputstreamDemo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edition4/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DATA_STRUCTURE/Demo01recursion/Dmoe01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edition4/demo01/FilreDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DATA_STRUCTURE/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9860">
+          <caret line="167" column="7" lean-forward="true" selection-start-line="167" selection-start-column="7" selection-end-line="167" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="143" column="43" selection-start-line="143" selection-start-column="43" selection-end-line="143" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JDKCollection/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edition3/demo02list/Demo01List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="149" selection-start-line="149" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week/BankofDaLian.java" />
+    <entry file="file://$PROJECT_DIR$/src/week/Constructbank.java" />
+    <entry file="file://$PROJECT_DIR$/src/week/Game01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week/Shape.java" />
+    <entry file="file://$PROJECT_DIR$/src/week/Ball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3298">
+          <caret line="97" column="41" lean-forward="true" selection-start-line="97" selection-start-column="41" selection-end-line="97" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week/BallJpanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week/Brick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week/Baffe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/Queue0/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/Queue0/LinkedListQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/Set0/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/Set0/BSTSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edition/demo05/Demo05StringPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edition/demo05/Demo04String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edition/demo05/Demo06StringGet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edition/demo02/Demo04Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-303">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/Set0/Soultuion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/Set0/LinkeListSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/Map0/LinkedListMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="115" column="19" selection-start-line="115" selection-start-column="19" selection-end-line="115" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shujujiegou01/Linklist/NodeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/BST0/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="278" lean-forward="true" selection-start-line="278" selection-end-line="278" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shujujiegou01/Linklist/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/LinkList/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="147" column="30" selection-start-line="147" selection-start-column="30" selection-end-line="147" selection-end-column="30" />
+          <folding>
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/Map0/BSTMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="118" column="23" selection-start-line="118" selection-start-column="23" selection-end-line="118" selection-end-column="23" />
+          <folding>
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bilibili/src/Map0/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bilibili</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
